@@ -1,0 +1,4 @@
+Opening a Word Document.
+Opening a PDF Document.   
+Opening an Excel Document.
+PS C:\Users\Dipak Dey\Desktop\week1\data structure>

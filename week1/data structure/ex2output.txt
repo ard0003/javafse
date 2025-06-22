@@ -1,0 +1,9 @@
+PS C:\Users\Dipak Dey\Desktop\javafse> cd 
+Linear Search Result:
+102 - Chair - Furniture
+
+Binary Search Result:
+102 - Chair - Furniture
+PS C:\Users\Dipak Dey\Desktop\javafse> cd "c:\Users\Dipak Dey\Desktop\javafse\" ; if ($?) { javac SearchExample.java } ; if ($?) { java SearchExample }
+Linear Search Result:
+102 - Chair - Furniture

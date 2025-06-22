@@ -1,0 +1,13 @@
+PS C:\Users\Dipak Dey\Desktop\javafse> cd "c:\Users\Dipak Dey\Desktop\javafse\" ; if ($?) { javac LibrarySystem.java } ; if ($?) { java LibrarySystem }
+Linear Search by Title:
+3 - Clean Code by Robert C. Martin
+
+Linear Search by Author:        
+2 - Atomic Habits by James Clear
+
+Binary Search by Title:
+5 - Deep Work by Cal Newport
+
+Binary Search by Author:
+4 - 1984 by George Orwell
+PS C:\Users\Dipak Dey\Desktop\javafse> 

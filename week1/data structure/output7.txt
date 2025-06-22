@@ -1,0 +1,5 @@
+PS C:\Users\Dipak Dey\Desktop\javafse> cd "c:\Users\Dipak Dey\Desktop\javafse\" ; if ($?) { javac FinancialForecast.java } ; if ($?) { java 
+FinancialForecast }
+Future Value (Recursive) after 5 years: 14025.52
+Future Value (Iterative) after 5 years: 14025.52
+PS C:\Users\Dipak Dey\Desktop\javafse> 

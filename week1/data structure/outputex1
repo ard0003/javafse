@@ -1,0 +1,9 @@
+PS C:\Users\Dipak Dey\Desktop\javafse> cd "c:\Users\Dipak Dey\Desktop\javafse\" ; if ($?) { javac InventoryManager.java } ; if ($?) { java InventoryManager }
+Product added successfully.
+Product added successfully.
+Product ID: 101, Name: Laptop, Quantity: 10, Price: 75000.0
+Product ID: 102, Name: Smartphone, Quantity: 25, Price: 25000.0
+Product updated successfully.
+Product deleted successfully.
+Product ID: 101, Name: Laptop Pro, Quantity: 8, Price: 82000.0 
+PS C:\Users\Dipak Dey\Desktop\javafse> 
