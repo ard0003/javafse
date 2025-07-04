@@ -1,0 +1,17 @@
+1. Java Persistence API (JPA)
+JSR 338 Specification for persisting, reading, and managing data from Java objects.
+It is just a specification, not an implementation.
+Hibernate is one of the popular implementations of JPA.
+
+2. Hibernate
+Hibernate is an ORM (Object Relational Mapping) tool.
+It implements JPA and also adds its own powerful features (e.g., caching, lazy loading).
+Requires more boilerplate code compared to Spring Data JPA.
+
+3. Spring Data JPA
+Not a JPA implementation.
+Provides a higher-level abstraction over JPA (typically using Hibernate underneath).
+Simplifies database access by removing boilerplate code (e.g., no need to write CRUD methods).
+Automatically handles transactions with Spring's @Transactional.
+Uses JpaRepository, which provides CRUD, pagination, and sorting methods out of the box.
+

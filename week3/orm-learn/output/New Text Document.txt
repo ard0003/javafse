@@ -1,0 +1,4 @@
+Inside main
+Start
+countries=[Country [code=IN, name=India], Country [code=US, name=United States]]
+End

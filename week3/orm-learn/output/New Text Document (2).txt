@@ -1,0 +1,19 @@
+Inside main
+Start (for getAllCountries)
+countries=[...]
+End
+
+Start Add
+End Add
+
+Start Update
+End Update
+
+Start Find
+End Find
+
+Start Search
+End Search
+
+Start Delete
+End Delete
