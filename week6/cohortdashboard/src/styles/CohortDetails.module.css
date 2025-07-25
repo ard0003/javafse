@@ -1,0 +1,16 @@
+/* Box Style */
+.box {
+  width: 300px;
+  display: inline-block; /* keeps them side by side */
+  margin: 10px;
+  padding: 10px 20px;
+  border: 1px solid black;
+  border-radius: 10px;
+  background-color: #f9f9f9;
+  vertical-align: top; /* aligns all boxes properly */
+}
+
+/* Title-Description List */
+dt {
+  font-weight: 500; /* bold-ish labels */
+}
