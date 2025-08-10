@@ -1,0 +1,5 @@
+# Merging Commands (after merge request approved in GitHub)
+git checkout master
+git pull origin master
+git branch -d GitNewBranch
+git push origin --delete GitNewBranch
